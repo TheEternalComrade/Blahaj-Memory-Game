@@ -1,0 +1,18 @@
+body{
+    box-sizing: border-box;
+    font-family: "Pixelify Sans", sans-serif;
+    background-color: azure;
+    font-size: 1.5rem;
+}
+
+.grid{
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.grid img{
+    border-radius: 5px;
+}
+
