@@ -1,54 +1,54 @@
 document.addEventListener('DOMContentLoaded', () => {
 const cardArray = [
     { name : 'blanket',
-        img: "Blanket.jpg"
+        img: "pictures/Blanket.jpg"
     },
     { name : 'car',
-        img: "Car.jpg"
+        img: "pictures/Car.jpg"
     },
     { name : 'knife',
-        img: "Knife.jpg"
+        img: "pictures/Knife.jpg"
     },
     { name : 'leg',
-        img: "Leg.jpg"
+        img: "pictures/Leg.jpg"
     },
     { name : 'pearl',
-        img: "Pearl.jpg"
+        img: "pictures/Pearl.jpg"
     },
     { name : 'rifle',
-        img: "Rifle.jpg"
+        img: "pictures/Rifle.jpg"
     },
     { name : 'smoon',
-        img: "SMoon.jpg"
+        img: "pictures/SMoon.jpg"
     },
     { name : 'tag',
-        img: "Tag.jpg"
+        img: "pictures/Tag.jpg"
     },
 
     //second half
     { name : 'blanket',
-        img: "Blanket.jpg"
+        img: "pictures/Blanket.jpg"
     },
     { name : 'car',
-        img: "Car.jpg"
+        img: "pictures/Car.jpg"
     },
     { name : 'knife',
-        img: "Knife.jpg"
+        img: "pictures/Knife.jpg"
     },
     { name : 'leg',
-        img: "Leg.jpg"
+        img: "pictures/Leg.jpg"
     },
     { name : 'pearl',
-        img: "Pearl.jpg"
+        img: "pictures/Pearl.jpg"
     },
     { name : 'rifle',
-        img: "Rifle.jpg"
+        img: "pictures/Rifle.jpg"
     },
     { name : 'smoon',
-        img: "SMoon.jpg"
+        img: "pictures/SMoon.jpg"
     },
     { name : 'tag',
-        img: "Tag.jpg"
+        img: "pictures/Tag.jpg"
     }
 ]
 
